@@ -1,0 +1,17 @@
+{
+  "name": "liferay-theme-typescript-hook",
+  "version": "8.0.0-alpha.4",
+  "description": "A hook for liferay-theme-tasks that allows for TypeScript transpilation.",
+  "main": "index.js",
+  "author": "Alex Valencia <alexander.valencia@liferay.com> (https://github.com/alexandervalencia)",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-typescript": "^4.0.2",
+    "run-sequence": "^2.2.1",
+    "typescript": "^2.8.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "liferay-theme-tasks": "^8.0.0-alpha.4"
+  }
+}
